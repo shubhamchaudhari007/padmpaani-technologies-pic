@@ -1,0 +1,8 @@
+Warning[2058] C:\Users\HP\Desktop\internship\Task 1(interfacing of Temp sensor LM 35)\task1.c 26 : call of function without prototype
+Warning[2058] C:\Users\HP\Desktop\internship\Task 1(interfacing of Temp sensor LM 35)\task1.c 28 : call of function without prototype
+Warning[2058] C:\Users\HP\Desktop\internship\Task 1(interfacing of Temp sensor LM 35)\task1.c 36 : call of function without prototype
+Warning[2058] C:\Users\HP\Desktop\internship\Task 1(interfacing of Temp sensor LM 35)\task1.c 38 : call of function without prototype
+Warning[2054] C:\Users\HP\Desktop\internship\Task 1(interfacing of Temp sensor LM 35)\task1.c 90 : suspicious pointer conversion
+Warning[2054] C:\Users\HP\Desktop\internship\Task 1(interfacing of Temp sensor LM 35)\task1.c 96 : suspicious pointer conversion
+Warning[2066] C:\Users\HP\Desktop\internship\Task 1(interfacing of Temp sensor LM 35)\task1.c 96 : type qualifier mismatch in assignment
+Warning[2058] C:\Users\HP\Desktop\internship\Task 1(interfacing of Temp sensor LM 35)\task1.c 98 : call of function without prototype

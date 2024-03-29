@@ -1,0 +1,74 @@
+Dear Shubham,
+
+Please find the task in attached file.
+
+
+Thanks and regards.
+
+Submission: code and circuit diagram
+
+Duration: One day
+
+Submit it in pdf file
+
+Regards
+
+
+Padmpaani Tech OPC PVT LTD.
+
+
+
+Task: Embedded C Programming for PIC18F4550 - Control Relays with Digital Input
+Switches
+
+Objective:
+Develop a simple embedded C program for the PIC18F4550 microcontroller. The program
+should control two relays based on the state of two digital input switches.
+
+Materials:
+- PIC18F4550 Microcontroller
+- Two Digital Input Switches
+- Two Relays (5V)
+- Breadboard and connecting wires
+- PC with MPLAB IDE and a C Compiler (like XC8)
+
+Task Description:
+
+1. Setup the Hardware:
+- Connect each digital input switch to a separate general-purpose input pin on the
+PIC18F4550.
+- Connect each relay to a separate general-purpose output pin. Ensure that the relays are
+interfaced properly, considering the current requirements and voltage levels.
+
+2. Initialize the I/O Ports:
+- Configure the input pins connected to the switches as digital inputs.
+- Configure the output pins connected to the relays as digital outputs.
+
+3. Main Program Loop:
+- Continuously check the state of each input switch.
+- If Switch 1 is pressed (logic high), activate Relay 1.
+- If Switch 2 is pressed (logic high), activate Relay 2.
+- Ensure that the relay is deactivated when the corresponding switch is not pressed.
+
+4. Debounce Mechanism (Optional but recommended):
+- Implement a simple software debouncing mechanism for the input switches to prevent
+false triggering due to switch bounce.
+
+5. Testing:
+- Test the program by pressing and releasing each switch and observing the activation and
+deactivation of the corresponding relay.
+- Verify that the relays do not activate when the switches are not pressed.
+
+6. Documentation:
+- Document the setup process, including a schematic of the circuit.
+- Comment the source code for clarity and future reference.
+
+Expected Learning Outcome:
+- Understanding of basic I/O operations in embedded C for PIC microcontrollers.
+- Practical experience in interfacing switches and relays with the PIC18F4550.
+- Familiarity with software debouncing techniques.
+
+Submission:
+- Provide the complete source code of the program.
+- Include a brief report detailing the implementation process, testing procedures, and any
+challenges faced.
